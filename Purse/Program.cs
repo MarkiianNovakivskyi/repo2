@@ -11,7 +11,10 @@ namespace Purse
         static void Main(string[] args)
         {
             Money.Money m = new Money.Money(); 
+
             BusinessCard.BusinessCard business =new BusinessCard.BusinessCard();
+            CreditCard.CreditCard credit = new CreditCard.CreditCard();
+            
         }
     }
 }
