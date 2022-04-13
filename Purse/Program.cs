@@ -11,6 +11,7 @@ namespace Purse
         static void Main(string[] args)
         {
             Money.Money m = new Money.Money(); 
+            CreditCard.CreditCard credit = new CreditCard.CreditCard();
         }
     }
 }
